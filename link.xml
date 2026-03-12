@@ -1,0 +1,45 @@
+<linker>
+  <assembly fullname="AnimalCompany, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AnimalCompany.AvatarAccessoryData" preserve="all" />
+    <type fullname="AnimalCompany.AvatarCageData" preserve="all" />
+    <type fullname="AnimalCompany.AvatarSystem.AvatarBodyPartData" preserve="all" />
+    <type fullname="AnimalCompany.BlenderProperties" preserve="all" />
+    <type fullname="AnimalCompany.AvatarArmPartFingerSettings" preserve="nothing" serialized="true" />
+    <type fullname="AnimalCompany.AvatarSystem.AttachmentPointData" preserve="nothing" serialized="true" />
+    <type fullname="AnimalCompany.AvatarSystem.AvatarBodyBoneData" preserve="nothing" serialized="true" />
+    <type fullname="AnimalCompany.AvatarSystem.GarmentRefitPreProcessResult" preserve="nothing" serialized="true" />
+    <type fullname="AnimalCompany.AvatarSystem.TailBoneData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Video.VideoClip" preserve="all" />
+  </assembly>
+  <assembly fullname="Fusion.Runtime">
+    <type fullname="Fusion.SerializableDictionary`2" preserve="nothing" serialized="true" />
+    <type fullname="Fusion.SerializableDictionary`2/Entry" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
